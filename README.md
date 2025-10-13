@@ -74,3 +74,20 @@
 - 📚 Currently diving deeper into **Data Structures**  
 - 💻 Building personal projects in **Java / React**  
 - 🤝 Contributing to open-source — always hap
+
+---
+
+## 💡 Fun Facts
+- 🧩 I enjoy solving puzzles & algorithm challenges  
+- ☕ I love tea and late-night coding sessions  
+- 🎥 I co-create videos and photos on **Reliv Studios**  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+
+<p align="center">
+  <b>Thanks for visiting my profile — feel free to explore my repositories & drop a message! 🙏</b>
+</p>
+
+---
