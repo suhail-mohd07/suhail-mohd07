@@ -4,7 +4,13 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF">Mohammed Suhail</span></h1>
-<h3 align="center">💻 Full-Stack Developer | Java • React • SQL Enthusiast</h3>
+
+<!-- ✨ Typing Animation -->
+<p align="center">
+  <a href="https://github.com/suhail-mohd07">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=💻+Full-Stack+Developer;🚀+Java+%7C+React+Enthusiast;🌱+Lifelong+Learner+%26+Tech+Explorer" alt="Typing Animation" />
+  </a>
+</p>
 
 ---
 
@@ -67,21 +73,4 @@
 ## 🌱 What I’m Learning / Working On
 - 📚 Currently diving deeper into **Data Structures**  
 - 💻 Building personal projects in **Java / React**  
-- 🤝 Contributing to open-source — always happy to collaborate!  
-
----
-
-## 💡 Fun Facts
-- 🧩 I enjoy solving puzzles & algorithm challenges  
-- ☕ I love tea and late-night coding sessions  
-- 🎥 I co-create videos and photos on **Reliv Studios**  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
-
-<p align="center">
-  <b>Thanks for visiting my profile — feel free to explore my repositories & drop a message! 🙏</b>
-</p>
-
----
+- 🤝 Contributing to open-source — always hap
