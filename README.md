@@ -3,11 +3,11 @@
   e.g. ![Banner](https://your-image-link.com/banner.png)
 -->
 
-# Hi there 👋, I’m **Suhail Mohd**
+# Hi there 👋, I’m **Mohammed Suhail**
 
 ## 💼 About Me
-- I’m a DevOps Engineer / Full-Stack Developer (or whatever your role is)  
-- Experienced in **AWS, Linux, Jenkins, CI/CD, Containers, etc.**  
+- I’m a Full-Stack Developer 
+- Experienced in **Java, React, SQL**  
 - I love building scalable systems, automating workflows, and exploring new tech  
 - Always learning and open to collaboration
 
@@ -15,20 +15,20 @@
 
 | Area | Technologies & Tools |
 |------|------------------------|
-| Cloud / Infra | AWS, Docker, Kubernetes, Terraform |
-| CI / CD / Automation | Jenkins, GitHub Actions, Ansible |
+| Cloud / Infra | AWS |
+| CI / CD / Automation | GitHub Actions |
 | Backend | Node.js, Python, REST APIs |
 | Frontend | React, HTML, CSS, JS |
-| Databases / Storage | MySQL, PostgreSQL, MongoDB |
-| Others | Linux, Bash, Monitoring, Logging, Git |
+| Databases / Storage | MySQL, Oracle, MongoDB |
+| Others | Bash, Logging, Git |
 
 ## 🔗 Connect with Me
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | [Mohd Suhail](https://www.linkedin.com/in/mohd-suhail-9b81201a1) :contentReference[oaicite:0]{index=0} |
+| LinkedIn | [Mohammed Suhail]([https://www.linkedin.com/in/mohd-suhail-9b81201a1](https://www.linkedin.com/in/mohammed-suhail-4720a4233/)) :contentReference[oaicite:0]{index=0} |
 | GitHub | https://github.com/suhail-mohd07 |
-| Email | your.email@example.com |
+| Email | suhailkudige786@gmail.com |
 
 ## 📊 GitHub Stats
 
@@ -36,14 +36,13 @@
 ![Suhail’s GitHub stats](https://github-readme-stats.vercel.app/api?username=suhail-mohd07&show_icons=true&theme=tokyonight)
 
 ## 🌱 What I’m Learning / Working On
-- Currently diving deeper into **Kubernetes & Observability (Prometheus, Grafana)**  
-- Building personal projects in **Go / Rust**  
+- Currently diving deeper into **Data Structures**  
+- Building personal projects in **Java / React**  
 - Contributing to open-source — will be happy to collaborate!
 
 ## 💡 Fun Facts
 - I enjoy solving puzzles & algorithm challenges  
-- I love coffee ☕ and late night coding  
-- Occasionally I share dev tips or write mini-blogs  
+- I love tea ☕ and late night coding  
 
 ---
 
