@@ -1,7 +1,4 @@
 <!-- 🌟 Profile Banner (Optional) -->
-<p align="center">
-  <img src="https://github.com/suhail-mohd07/suhail-mohd07/Gitbanner.png" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF">Mohammed Suhail</span></h1>
 
