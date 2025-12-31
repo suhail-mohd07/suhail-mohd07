@@ -28,7 +28,7 @@
 |------|------------------------|
 | ☁️ Cloud / Infra | AWS |
 | 🔁 CI / CD / Automation | GitHub Actions |
-| 🧠 Backend | Node.js, Python, REST APIs |
+| 🧠 Backend | Java, Node.js, Python, REST APIs |
 | 🎨 Frontend | React, HTML, CSS, JS |
 | 🗄️ Databases / Storage | MySQL, Oracle, MongoDB |
 | 🧰 Others | Bash, Logging, Git |
