@@ -57,15 +57,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhail-mohd07&show_icons=true&theme=tokyonight" alt="Suhail's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhail-mohd07&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhail-mohd07&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhail-mohd07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail-mohd07&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail-mohd07&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 ---
